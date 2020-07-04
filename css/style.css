@@ -1,0 +1,16 @@
+
+	body{
+		font-family: 'MuseoModerno', cursive;
+	}
+	.women{
+		width:100%;
+		height:400px;
+
+	}
+	.row{
+		padding-left: 20px;
+		padding-right: 10px;
+	}
+	.kn{
+		height:260px;
+	}
